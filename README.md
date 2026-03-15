@@ -1,44 +1,107 @@
 # HexSoftwares Resume Website
 
-This project is a semantic HTML resume website created as part of the HexSoftwares Internship program.
+A simple **Resume Website built using only HTML** as part of the **HexSoftwares Internship Program**.
 
-The goal of the project is to build a personal resume webpage using only HTML while demonstrating proper document structure and semantic markup.
+This project demonstrates how a personal resume can be structured as a web page using **semantic HTML elements** while maintaining a clean and professional layout. The goal of the project is to present personal information, skills, and experience in a structured format using **pure HTML without CSS or JavaScript**.
+
+---
+
+## Project Overview
+
+The Resume Website represents a developer’s professional profile as a web page. It organizes important career information such as contact details, skills, projects, work experience, and education.
+
+The webpage uses a **two-column layout created with HTML tables** and semantic HTML elements to make the content readable and well structured.
+
+---
 
 ## Features
 
-- Professional header with name and title
-- Profile headshot
-- About Me section
-- Technical and soft skills
-- Projects section
-- Experience and education
-- Internal navigation links
-- Expandable project details using HTML elements
+* Personal header with name and professional title
+* Professional headshot image
+* Contact information section
+* About Me summary
+* Technical skills with visual levels using HTML `<progress>` elements
+* Soft skills section
+* Projects section
+* Work experience section
+* Education section
+* Two-column resume layout using HTML tables
+* Structured semantic HTML markup
+
+---
 
 ## Technologies Used
 
-HTML5
+**HTML5**
 
-## Key Concepts Demonstrated
+This project intentionally avoids the use of:
 
-- Semantic HTML structure
-- Accessible markup
-- Proper document hierarchy
-- Navigation within a webpage
-- Structured resume presentation
+* CSS
+* JavaScript
+* External libraries or frameworks
 
-## How to Run
+in order to follow the assignment requirement of using **only HTML**.
+
+---
+
+## Key HTML Concepts Demonstrated
+
+* Semantic HTML structure using `header`, `section`, `article`, `footer`
+* Table-based layout for structured resume design
+* Accessibility using `label`, `alt`, and `address` elements
+* Skill visualization using the HTML `<progress>` element
+* Proper document hierarchy using headings
+* Structured resume presentation on a webpage
+
+---
+
+## Project Structure
+
+HexSoftwares_Resume_Website
+│
+├── index.html
+├── profile.jpg
+└── README.md
+
+---
+
+## How to Run the Project
 
 1. Clone the repository
-2. Open index.html in a web browser
+
+git clone https://github.com/Muwatta/HexSoftwares_Resume_Website.git
+
+2. Navigate to the project directory
+
+cd HexSoftwares_Resume_Website
+
+3. Open the **index.html** file in your browser.
+
+---
+
+## Screenshot (Optional)
+
+You can include a screenshot of the webpage.
+
+Example:
+
+assets/resume-preview.png
+
+Then reference it inside the README like this:
+
+![Resume Preview](assets/resume-preview.png)
+
+---
 
 ## Author
 
 Abdullahi Muwatta
 
-GitHub:
+GitHub
 https://github.com/Muwatta
 
-## Internship Project
+---
 
-This project was created as part of the HexSoftwares Internship Program.
+## Internship Program
+
+This project was developed as part of the **HexSoftwares Internship Program** to demonstrate the ability to build a structured resume website using **HTML only**.
