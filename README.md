@@ -79,11 +79,10 @@ cd HexSoftwares_Resume_Website
 
 ---
 
-## Screenshot (Optional)
+## Screenshot 
 
 
-
-![Resume Preview](assets/resume-preview.png)
+![Resume Preview](assets/resume-preview.jpg.png)
 
 ---
 
