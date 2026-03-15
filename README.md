@@ -81,13 +81,7 @@ cd HexSoftwares_Resume_Website
 
 ## Screenshot (Optional)
 
-You can include a screenshot of the webpage.
 
-Example:
-
-assets/resume-preview.png
-
-Then reference it inside the README like this:
 
 ![Resume Preview](assets/resume-preview.png)
 
