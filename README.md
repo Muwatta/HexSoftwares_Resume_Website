@@ -37,7 +37,7 @@ The webpage uses a **two-column layout created with HTML tables** and semantic H
 This project intentionally avoids the use of:
 
 * CSS
-* JavaScript
+* JavaScript 
 * External libraries or frameworks
 
 in order to follow the assignment requirement of using **only HTML**.
